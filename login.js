@@ -12,3 +12,8 @@ const login =()=>{
 const tosignup=()=>{
     window.location="signup.html"
 }
+
+
+const signup=()=>{
+    window.location="signup.html"
+}

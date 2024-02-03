@@ -25,3 +25,7 @@ const tologin =()=>{
     window.location="login.html"
 }
 
+const login =() =>{
+    window.location="login.html"
+}
+
