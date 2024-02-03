@@ -14,7 +14,7 @@ if(localStorage.getItem("user")){
     }
 
     if (localStorage.getItem("mail")){
-        dashmail.innerHTML=localStorage.getItem("mail")
+        dashemail.innerHTML=localStorage.getItem("mail")
     }
 
     if (localStorage.getItem("pno")){
